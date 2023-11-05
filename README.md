@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity based Projects:</h2>
 
-- <b>[Honeypot to monitor failed RDP attempts](https://github.com/issashrez/URL)</b>
+- <b>[Honeypot to monitor failed RDP attempts](https://github.com/issashrez/Honeypot)</b>
   - Done using Windows VM hosted on Azure cloud
   - Uses Log Analytics workspace, PowerShell, KQL, Microsoft Defender, Azure Sentinel and Azure workbook
 
