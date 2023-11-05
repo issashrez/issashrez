@@ -4,7 +4,7 @@
 
 - <b>[Honeypot to monitor failed RDP attempts](https://github.com/issashrez/Honeypot)</b>
   - Done using Windows VM hosted on Azure cloud
-  - Uses Log Analytics workspace, PowerShell, KQL, Microsoft Defender, Azure Sentinel and Azure workbook
+  - Uses Log Analytics workspace, PowerShell, KQL, Microsoft Defender, Microsoft Sentinel and Azure workbook
 
 <h2>🏢 Internships/Job simulations: </h2>
 
