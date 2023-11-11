@@ -5,6 +5,9 @@
 - <b>[Honeypot to monitor failed RDP attempts](https://github.com/issashrez/Honeypot)</b>
   - Done using Windows VM hosted on Azure cloud
   - Uses Log Analytics workspace, PowerShell, KQL, Microsoft Defender, Microsoft Sentinel and Azure workbook
+- <b>[File Integrity Monitor](https://github.com/issashrez/File-Integrity-Monitor)</b>
+  - Uses a PowerShell script to continuously the integrity of a set of target files
+  - This is done by comparing the SHA512 hash values of a baseline and the updated dictionary.
 
 <h2>🏢 Internships/Job simulations: </h2>
 
