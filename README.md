@@ -11,8 +11,9 @@
 
 <h2>🏢 Internships/Job simulations: </h2>
 
+- <b>[Bharat Electronics Limited - Ministry of Defence](https://drive.google.com/file/d/1q93tyg98yl0xaAwqPJg3mJif9-MShfo6/view)</b>
 - <b>[Telstra, Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_YrQxDDjmiXJXA9CrB_1697739325355_completion_certificate.pdf)</b>
-- <b>[JPMorgan Chase & Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._YrQxDDjmiXJXA9CrB_1698766182570_completion_certificate.pdf)</b>
+- <b>[JPMorgan Chase & Co., Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._YrQxDDjmiXJXA9CrB_1698766182570_completion_certificate.pdf)</b>
 
 <h2>📃 Certifications: </h2>
 
