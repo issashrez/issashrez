@@ -7,7 +7,11 @@
   - Uses Log Analytics workspace, PowerShell, KQL, Microsoft Defender, Microsoft Sentinel and Azure workbook
 - <b>[File Integrity Monitor](https://github.com/issashrez/File-Integrity-Monitor)</b>
   - Uses a PowerShell script to continuously the integrity of a set of target files
-  - This is done by comparing the SHA512 hash values of a baseline and the updated dictionary.
+  - This is done by comparing the SHA512 hash values of a baseline and the updated dictionary
+- <b>[YarWeb - web-based generic YARA rule generator](https://github.com/issashrez/YarWeb)</b>
+  - A tool running completely on the web capable of automatically generating a generic YARA rule for a chosen malware signature from a list of available signature options
+  - Produces faster outputs than the current competitors in the market. Produces rules based on rule matching and data analysis from large custom databases.
+  - Uses Python and Flask for the backend. HTML, CSS, Javascript, and JQuery are used for the front end.
 
 <h2>🏢 Internships/Job simulations: </h2>
 
@@ -18,6 +22,7 @@
 <h2>📃 Certifications: </h2>
 
 - <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/S3NKY5GLQ3EV)</b>
+- <b>[TryHackMe Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ANF7EY5ZTJ.png)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
