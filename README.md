@@ -15,12 +15,16 @@
 
 <h2>🏢 Internships/Job simulations: </h2>
 
+- <b>[CSIT]</b>
+- <b>[Deloitte India](https://drive.google.com/file/d/1BOyoUTJzW4uP8J7LbO_qOqFIJI222LqA/view?usp=sharing)</b>
 - <b>[Bharat Electronics Limited - Ministry of Defence](https://drive.google.com/file/d/1q93tyg98yl0xaAwqPJg3mJif9-MShfo6/view)</b>
 - <b>[Telstra, Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_YrQxDDjmiXJXA9CrB_1697739325355_completion_certificate.pdf)</b>
 - <b>[JPMorgan Chase & Co., Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._YrQxDDjmiXJXA9CrB_1698766182570_completion_certificate.pdf)</b>
 
 <h2>📃 Certifications: </h2>
 
+- <b>[Practical Ethical Hacking, TCM Security](https://drive.google.com/file/d/1fTZ_SAQAmwVDGu5CfAPQEAhCr1wkVYia/view?usp=sharing)</b>
+- <b>[Certified Network Security Professional, The SecOps Group](https://drive.google.com/file/d/1JBjQosLmLR8eoHDEiV4Ssbw_xFIip8Xm/view?usp=sharing)</b>
 - <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/S3NKY5GLQ3EV)</b>
 - <b>[TryHackMe Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ANF7EY5ZTJ.png)</b>
 
